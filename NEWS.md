@@ -1,5 +1,3 @@
-# NEWS
-
 ### v1.2.0 (2023-07-18)
 
 * Database as an isolated service
